@@ -1,6 +1,6 @@
 # Robotics
 
-Python examples for robot navigation, localisation, control and manipulation. The original RoboMaster programs and the CPU simulation course have their own entry points.
+Explore planning, localisation and control in twelve CPU simulation labs, or use the eight hardware examples with a compatible RoboMaster. For a first simulation, run the A* grid planner below and compare its route with the Dijkstra reference.
 
 | Collection | Contents |
 |---|---|
